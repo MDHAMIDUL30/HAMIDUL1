@@ -1,5 +1,5 @@
-# Gift By Alhaj
-# Telegram Id : @habib_u54
+# Gift By HAMIDUL 
+# Telegram Id : @HAMIDUL_owner
 # Telegram : https://t.me/Hbthader
 # Facebook Group : https://facebook.com/groups/879179499879525/
 from bs4 import BeautifulSoup as sop
@@ -101,7 +101,7 @@ logo =("""\033[0;92m╔━━━━━━━━━━━━━━━━━━━
  
 def Hamidul():
     os.system('clear')
-    os.system('xdg-open https://facebook.com/groups/879179499879525/')
+    os.system('xdg-open https://t.me/h2vasco')
     print(logo)
     print("")
     print("\033[1;96m ╔═════════════════════════════════╗")
@@ -116,9 +116,9 @@ def Hamidul():
     if Hamidul in ["1","A"]:
         Hamiduls()
     if Hamidul in ["2","B"]:
-        os.system('xdg-open https://facebook.com/groups/879179499879525/')
+        os.system('xdg-open https://t.me/h2vasco')
     if Hamidul in ["3","C"]:
-        os.system('xdg-open https://facebook.com/groups/879179499879525/')
+        os.system('xdg-open https://t.me/h2vasco')
     if Hamidul in ["0","X"]:
         os.system('exit')
 
@@ -133,7 +133,7 @@ def Hamiduls():
     print("\033[1;91m╚════════════════════════════════════════════╝")
     code = input('\033[1;32m ƳϴႮᎡ ՏᏆᎷ ᏟϴᎠᎬ :\033[1;36m ')
     os.system('clear')
-    os.system('xdg-open https://facebook.com/groups/879179499879525/')
+    os.system('xdg-open https://t.me/h2vasco')
     print(logo)
     print("\033[1;91m╔════════════════════════════════════════════╗")
     print("\033[1;31m║\033[1;36m  ƳϴႮᎡ ᏟᎡᎪᏟᏦ ᏞᏆᎷᏆͲ : \033[1;31m[\033[1;32m3000\033[1;31m] [\033[1;32m5000\033[1;31m] [\033[1;32m10000\033[1;31m] \033[1;31m ║")
@@ -149,7 +149,7 @@ def Hamiduls():
         print("\033[1;91m╔═════════════════════════════════════╗")
         print(f'\033[1;91m║\033[1;92m ƳϴႮᎡ ՏᏆᎷ ᏟϴᎠᎬ : '+code) 
         print(f'\033[1;91m║\033[1;92m ƳϴႮᎡ ͲϴͲᎪᏞ ᏆᎠ : '+tl)
-        print(f'\033[1;91m║\033[1;92m ᏀᏆҒͲ ᏴƳ ᎪᏞᎻᎪᎫ ')
+        print(f'\033[1;91m║\033[1;92m ᏀᏆҒͲ ᏴƳ HAMIDUL ')
         print("\033[1;91m╚═════════════════════════════════════╝")
         for love in user:
             pwx = [love,love[2:],code+love[:3],'FreeFire','Pubg123','TikTok','Alh4aj']
@@ -226,4 +226,5 @@ def Hamidulm(uid,pwx,tl):
     except:
         pass
  
+
 Hamidul()
